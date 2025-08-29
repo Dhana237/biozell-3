@@ -42,7 +42,7 @@ const Navigation = () => {
             </div>
             <div>
               <h1 className="text-2xl font-bold text-primary">Biozell</h1>
-              <p className="text-xs text-muted-foreground">Wellness Solutions</p>
+              {/* <p className="text-xs text-muted-foreground">Wellness Solutions</p> */}
             </div>
           </div>
 
